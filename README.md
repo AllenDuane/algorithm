@@ -1,1 +1,9 @@
-My Act of Some Leetcode Problems
+## Ideas About LeetCode Solutions
+
+* Ideas
+
+
+
+
+
+###### By Simon Duan
