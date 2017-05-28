@@ -1,5 +1,6 @@
 ## Ideas About LeetCode Solutions
 
+[cata_link]: https://github.com/AllenDuane/leetcode/tree/master/
 
 
 | ID        | Title         | Solution  |
@@ -11,5 +12,3 @@
 
 
 ###### By Simon Duan
-
-[cata_link]: https://github.com/AllenDuane/leetcode/tree/master/
