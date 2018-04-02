@@ -18,13 +18,10 @@
 |4|[ 412 Fizz Buzz][412link]|[CPP](412_Fizz_Buzz)|20170811|
 |3|[476 Number Complement][476link]|[CPP](/476_Number_Complement)|20170811|
 |2|[500 Keyboard Row][500link]|[CPP](/500_Keyboard_Row)|20170811|
-|1|[566 Reshape the Matrix][566link]|[CPP](/566_Reshape_the_Matrix)|20170811|
+|1|[566 Reshape the Matrix][566link]|[CPP](./566_Reshape_the_Matrix)|20170811|
 
 <br/>
 <b> By Simon Duan
-
-
-[cata_link]: https://github.com/AllenDuane/leetcode/tree/master/
 
 [417prolink]:https://leetcode.com/problems/pacific-atlantic-water-flow
 [485prolink]:https://leetcode.com/problems/max-consecutive-ones
