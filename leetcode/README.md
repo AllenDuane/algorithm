@@ -9,7 +9,7 @@
 |13|[575 Distribute Candies][575link]|[CPP](./575_Distribute_Candies)|20170811|
 |12|[557 Reverse Words in a String III][557link]|[CPP](./557_Reverse_Words_in_a_String_III)|20170811|
 |11|[561 Array Partition I][561link]|[CPP](./561_Array_Partition_I)|20170811|
-|10|[617 Merge Two Binary Trees][617link]|[CPP](/.617_Merge_Two_Binary_Trees)|20170811|
+|10|[617 Merge Two Binary Trees][617link]|[CPP](./617_Merge_Two_Binary_Trees)|20170811|
 | 9 | [ 417 Pacific Atlantic Water Flow][417prolink] | [JAVA](./417_Pacific_Atlantic_Water_Flow) | 20170811 |
 |8| [485 Max Consecutive Ones][485prolink] | [CPP](./485_Max_Consecutive_Ones) | 20170811 |
 |7| [292 Nim Game][292link] | [CPP](./292_Nim_Game) | 20170811 |
